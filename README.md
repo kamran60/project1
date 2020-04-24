@@ -1,6 +1,7 @@
 # Project 1
 
 Web Programming with Python and JavaScript
+https://www.youtube.com/watch?v=6leduXRnutI
 
 When you start my app first time you will be redirected to login page where you can sign up and log in.
 login.html file extends layout.html. Threre are two forms in login page, one for registering a second for logging in.
